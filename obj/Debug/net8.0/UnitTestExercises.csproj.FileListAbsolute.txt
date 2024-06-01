@@ -1,0 +1,14 @@
+C:\Users\SH.Rayan\source\repos\UnitTestExercises\bin\Debug\net8.0\UnitTestExercises.exe
+C:\Users\SH.Rayan\source\repos\UnitTestExercises\bin\Debug\net8.0\UnitTestExercises.deps.json
+C:\Users\SH.Rayan\source\repos\UnitTestExercises\bin\Debug\net8.0\UnitTestExercises.runtimeconfig.json
+C:\Users\SH.Rayan\source\repos\UnitTestExercises\bin\Debug\net8.0\UnitTestExercises.dll
+C:\Users\SH.Rayan\source\repos\UnitTestExercises\bin\Debug\net8.0\UnitTestExercises.pdb
+C:\Users\SH.Rayan\source\repos\UnitTestExercises\obj\Debug\net8.0\UnitTestExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SH.Rayan\source\repos\UnitTestExercises\obj\Debug\net8.0\UnitTestExercises.AssemblyInfoInputs.cache
+C:\Users\SH.Rayan\source\repos\UnitTestExercises\obj\Debug\net8.0\UnitTestExercises.AssemblyInfo.cs
+C:\Users\SH.Rayan\source\repos\UnitTestExercises\obj\Debug\net8.0\UnitTestExercises.csproj.CoreCompileInputs.cache
+C:\Users\SH.Rayan\source\repos\UnitTestExercises\obj\Debug\net8.0\UnitTestExercises.dll
+C:\Users\SH.Rayan\source\repos\UnitTestExercises\obj\Debug\net8.0\refint\UnitTestExercises.dll
+C:\Users\SH.Rayan\source\repos\UnitTestExercises\obj\Debug\net8.0\UnitTestExercises.pdb
+C:\Users\SH.Rayan\source\repos\UnitTestExercises\obj\Debug\net8.0\UnitTestExercises.genruntimeconfig.cache
+C:\Users\SH.Rayan\source\repos\UnitTestExercises\obj\Debug\net8.0\ref\UnitTestExercises.dll
